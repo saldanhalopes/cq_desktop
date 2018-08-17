@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Rafael Saldanha Lopes.
+X-COMMENT: Este programa foi desenvolvido para suporte do Controle de Qualidade
